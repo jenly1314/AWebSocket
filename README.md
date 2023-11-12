@@ -5,7 +5,7 @@
 [![JitPack](https://jitpack.io/v/jenly1314/AWebSocket.svg)](https://jitpack.io/#jenly1314/AWebSocket)
 [![CircleCI](https://circleci.com/gh/jenly1314/AWebSocket.svg?style=svg)](https://circleci.com/gh/jenly1314/AWebSocket)
 [![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=21)
-![License](https://img.shields.io/badge/license-Apche%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![License](https://img.shields.io/badge/license-Apche%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Blog](https://img.shields.io/badge/blog-Jenly-9933CC.svg)](https://jenly1314.github.io/)
 [![QQGroup](https://img.shields.io/badge/QQGroup-20867961-blue.svg)](http://shang.qq.com/wpa/qunwpa?idkey=8fcc6a2f88552ea44b1411582c94fd124f7bb3ec227e2a400dbbfaad3dc2f5ad)
 
@@ -114,10 +114,7 @@ aWebSocket.close()
 smiley:<p>
 你也可以扫描下面的二维码，请作者喝杯咖啡 :coffee:
 <div>
-<img src="https://jenly1314.github.io/image/pay/wxpay.png" width="280" heght="350">
-<img src="https://jenly1314.github.io/image/pay/alipay.png" width="280" heght="350">
-<img src="https://jenly1314.github.io/image/pay/qqpay.png" width="280" heght="350">
-<img src="https://jenly1314.github.io/image/alipay_red_envelopes.jpg" width="233" heght="350">
+<img src="https://jenly1314.github.io/image/pay/sponsor.png" width="98%">
 </div>
 
 ## 关于我

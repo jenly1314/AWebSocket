@@ -1,0 +1,33 @@
+//App
+def app_version = [:]
+app_version.versionCode = 1
+app_version.versionName = "1.0.0"
+ext.app_version = app_version
+
+//build version
+def build_versions = [:]
+build_versions.minSdk = 21
+build_versions.targetSdk = 33
+build_versions.compileSdk = 33
+build_versions.buildTools = "33.0.0"
+ext.build_versions = build_versions
+
+// App dependencies
+def versions = [:]
+
+versions.mavenPublish = '0.22.0'
+
+//androidx
+versions.appcompat = "1.6.1"
+versions.constraintLayout = "2.1.4"
+versions.coreKtx = "1.9.0"
+
+versions.okhttp = "4.11.0"
+
+//test
+versions.junit = "4.13.2"
+versions.androidExtJunit = "1.1.5"
+versions.espressoCore = "3.5.1"
+
+
+ext.versions = versions
